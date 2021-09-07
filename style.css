@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+input
+{
+    background: grey;
+}
+.my_nav_bar { position:sticky; top:0; z-index:99999 }\
+#wel{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+#contact{
+    background: linear-gradient(#ff0000 0%, #ff9900 100%);
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
